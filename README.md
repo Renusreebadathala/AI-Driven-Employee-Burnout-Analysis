@@ -1,5 +1,6 @@
 **AI-Driven Employee Burnout Risk Analysis**
-**Project Overview**
+
+**Project Overview:**
 This project aims to analyze and predict employee burnout using work patterns, stress indicators, recovery metrics, and performance data. The goal is to enable proactive HR intervention and reduce productivity loss and attrition.
 
 **Phase 1: Dataset Engineering & Feature Understanding**
