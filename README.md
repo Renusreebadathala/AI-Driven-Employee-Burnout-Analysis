@@ -3,10 +3,12 @@
 This project aims to analyze and predict employee burnout using work patterns, stress indicators, recovery metrics, and performance data. The goal is to enable proactive HR intervention and reduce productivity loss and attrition.
 
 **Phase 1: Dataset Engineering & Feature Understanding**
-**Objective**
+
+**Objective:**
 Design a meaningful dataset to support burnout prediction and HR decision-making.
 
 Burnout Dimensions:
+
 •	Workload
 •	Stress
 •	Recovery
@@ -23,6 +25,8 @@ Dataset Features:
 | productivity_score | Performance | Quality and efficiency of work output         | Burnout negatively impacts productivity and performance |
 
 Outcome of Phase 1:
-Dataset structure finalized
-Features aligned with burnout dimensions
-Ready for data generation and modeling
+
+•	Dataset structure finalized
+•	Features aligned with burnout dimensions
+•	Ready for data generation and modeling
+
